@@ -67,16 +67,16 @@ Tick these off as you complete them:
 
 ### 8 kyu
 
-- [ ] Reversed Strings
-- [ ] Remove First and Last Character
-- [ ] String repeat
-- [ ] Sentence Smash
-- [ ] Convert a string to an array
-- [ ] Abbreviate a Two Word Name
-- [ ] Sum of positive
-- [ ] Find the smallest integer in the array
-- [ ] Remove String Spaces
-- [ ] Square(n) Sum
+- [x] Reversed Strings
+- [x] Remove First and Last Character
+- [x] String repeat
+- [x] Sentence Smash
+- [x] Convert a string to an array
+- [x] Abbreviate a Two Word Name
+- [x] Sum of positive
+- [x] Find the smallest integer in the array
+- [x] Remove String Spaces
+- [x] Square(n) Sum
 
 ### 7 kyu
 
